@@ -1,0 +1,3 @@
+# Huffman Coding Project
+
+## Details
