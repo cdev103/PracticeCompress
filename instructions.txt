@@ -1,0 +1,9 @@
+work in vscode DONE
+how to compile c project with vscode DONE
+compress text file by 3/4+
+only lowercase letters
+input - txt
+output - zip whatever
+2 functions compress + extract
+ask chat about ASCII and learn about base64 
+converstion betweeb bnari and decimal
